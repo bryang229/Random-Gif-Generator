@@ -1,0 +1,12 @@
+body {
+    text-align: center;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+form {
+    border: 3px solid #135adf;
+    /* hex value */
+    margin: 30px;
+    padding: 30px;
+}
